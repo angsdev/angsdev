@@ -30,6 +30,7 @@ Mi nombre es Angel Quiñonez.
 <br>
 ![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=72789a)
 ![Laravel](https://img.shields.io/badge/laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=F46157)
+![Wordpress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=05A7D9)
 <br>
 ![SQL](https://img.shields.io/badge/sql-1eae5f?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=26557C)
