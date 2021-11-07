@@ -11,8 +11,10 @@ Mi nombre es Angel Quiñonez.
   - NodeJS
   - PostgreSQL
   - Wordpress
-  - Nivel de Ingles a B2-C1
+  - Mejorar nivel de Ingles de B1 a C1-C2
 
+  Como objetivo a largo plazo planeo establecerme sólidamente con el desarrollo web fullstack y eventualmente, de encontrar una buena oportunidad, dar un salto al desarrollo de videojuegos con phaser, unity o unreal engine.
+  
 ## Habilidades
 
 ![GIT](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=DE4C36&labelColor=8bb9d3)
