@@ -1,21 +1,17 @@
-# Hola! 👋👋
+# Hello! 👋👋
 
-Mi nombre es Angel Quiñonez.
+My name is Angel Quiñonez.
 
-## Presentación
+## Introduction
 
-- Profesional informático con experiencia en el área del TI, orientado a la rama del desarrollo de software, 
-  actualmente trabajando de forma independientemente, con experiencia en aplicaciones web, utilizando el stack LAMP, 
-  enfocado en él backend, aunque con experiencia en tecnologías frontend.
-- ¿Qué estoy aprendiendo, quiero aprender o mejorar?
+- Computer science professional with experience in IT area, oriented to the software development branch, currently working as a freelance, with experience in web applications using LAMP stack focused on backend but with experience in frontend technologies.
+- What am i currently learning or i want to learn soon?
   - NodeJS
   - PostgreSQL
   - Wordpress
-  - Mejorar nivel de Ingles de B1 a C1-C2
-
-  Como objetivo a largo plazo planeo establecerme sólidamente con el desarrollo web fullstack y eventualmente, de encontrar una buena oportunidad, dar un salto al desarrollo de videojuegos con phaser, unity o unreal engine.
+- As long-term approach, i plan to establish myself solidly in fullstack web development and eventually, finding a good oportunity jump to games development branch with phaser, unity o unreal engine. 
   
-## Habilidades
+## Skills
 
 ![GIT](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=DE4C36&labelColor=8bb9d3)
 ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=202020)
@@ -39,17 +35,17 @@ Mi nombre es Angel Quiñonez.
 ![MariaDB](https://img.shields.io/badge/mariadb-grey?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=4175a1)
 
 
-## Estadisticas
+## Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angsdev&layout=compact&hide_border=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
 <br>
 
-## Repositorios
+## Repositories
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=angsdev&repo=RESTful-WebService&hide_border=true&show_icons=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
 <br>
 
-## Redes sociales
+## Social Networks
 
 <a href="https://angsdev.github.io/"><img height="30px" src="https://img.shields.io/badge/Mi%20Sitio%20Web:%20angsdev.github.io-1c252c?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/angelquiñonezs"><img src="https://img.shields.io/badge/linkedin%20@angelquiñonezs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
