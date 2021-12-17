@@ -5,7 +5,7 @@ My name is Angel Quiñonez.
 ## Introduction
 
 - Computer science professional with experience in IT area, oriented to the software development branch, currently working as a freelance, with experience in web applications using LAMP stack focused on backend but with experience in frontend technologies.
-- What am i currently learning or i want to learn soon?
+- What am i currently learning or i want to learn or improve?
   - NodeJS
   - PostgreSQL
   - Wordpress
