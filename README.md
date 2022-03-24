@@ -4,35 +4,36 @@ My name is Angel Quiñonez.
 
 ## Introduction
 
-- Computer science professional with experience in IT area, oriented to the software development branch, currently working as a freelance, with experience in web applications using LAMP stack focused on backend but with experience in frontend technologies.
-- What am i currently learning or i want to learn or improve?
-  - NodeJS
-  - PostgreSQL
-  - Wordpress
-- As long-term approach, i plan to establish myself solidly in fullstack web development and eventually, finding a good oportunity jump to games development branch with phaser, unity o unreal engine. 
+Computer science professional with more than 4 years of experience in the IT area, specialist in the software development branch with focus on the web development, specifically at back-end although experienced in front-end technologies, using LAMP and MEVN stacks.
+
+Focused on reflect a work of a professional nature, minimalist, elegant and optimal performance.
+
+Described in three words:
+Conviction, Determination and Versatility.
   
 ## Skills
 
-![GIT](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=DE4C36&labelColor=8bb9d3)
+![GIT](https://img.shields.io/badge/git-DE4C36?style=for-the-badge&logo=git&logoColor=DE4C36&labelColor=202020)
 ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=202020)
 <br>
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=EF652A)
+![HTML5](https://img.shields.io/badge/html%205-EF652A?style=for-the-badge&logo=html5&logoColor=EF652A&labelColor=202020)
 ![MarkDown](https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=202020)
 <br>
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=0C7FBE)
-![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=C76495)
+![CSS3](https://img.shields.io/badge/css%203-0C7FBE?style=for-the-badge&logo=css3&logoColor=0C7FBE&labelColor=202020)
+![SASS](https://img.shields.io/badge/sass-C76495?style=for-the-badge&logo=sass&logoColor=C76495&labelColor=202020)
 <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=202020)
-![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2D79C7)
-![JQuery](https://img.shields.io/badge/jquery-grey?style=for-the-badge&logo=jquery&logoColor=0b507f&labelColor=2186CE)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=202020)
+![TypeScript](https://img.shields.io/badge/typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=2D79C7&labelColor=202020)
+![JQuery](https://img.shields.io/badge/jquery-0b507f?style=for-the-badge&logo=jquery&logoColor=0b507f&labelColor=202020)
+![Node.JS](https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=3C873A&labelColor=202020)
 <br>
-![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=72789a)
-![Laravel](https://img.shields.io/badge/laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=F46157)
-![Wordpress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=05A7D9)
+![PHP](https://img.shields.io/badge/php-72789a?style=for-the-badge&logo=php&logoColor=72789a&labelColor=202020)
+![Laravel](https://img.shields.io/badge/laravel-F46157?style=for-the-badge&logo=laravel&logoColor=F46157&labelColor=202020)
+![Wordpress](https://img.shields.io/badge/wordpress-05A7D9?style=for-the-badge&logo=wordpress&logoColor=05A7D9&labelColor=202020)
 <br>
-![SQL](https://img.shields.io/badge/sql-1eae5f?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=26557C)
-![MariaDB](https://img.shields.io/badge/mariadb-grey?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=4175a1)
+![MySQL](https://img.shields.io/badge/mysql-26557C?style=for-the-badge&logo=mysql&logoColor=26557C&labelColor=202020)
+![MariaDB](https://img.shields.io/badge/mariadb-4175a1?style=for-the-badge&logo=mariadb&logoColor=4175a1&labelColor=202020)
+![MongoDB](https://img.shields.io/badge/mariadb-4175a1?style=for-the-badge&logo=mongodb&logoColor=4175a1&labelColor=202020)
 
 
 ## Statistics
@@ -42,12 +43,12 @@ My name is Angel Quiñonez.
 
 ## Repositories
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=angsdev&repo=RESTful-WebService&hide_border=true&show_icons=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=angsdev&repo=angsdev.github.io&hide_border=true&show_icons=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
 <br>
 
-## Social Networks
+## Social Media
 
-<a href="https://angsdev.github.io/"><img height="30px" src="https://img.shields.io/badge/Mi%20Sitio%20Web:%20angsdev.github.io-1c252c?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<a href="https://angsdev.github.io/"><img height="30px" src="https://img.shields.io/badge/My%20Web%20Site:%20angsdev.github.io-1c252c?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/angelquiñonezs"><img src="https://img.shields.io/badge/linkedin%20@angelquiñonezs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://torre.co/angsdev/"><img src="https://img.shields.io/badge/torre%20@angsdev-27292D?style=for-the-badge"/></a>
 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=angsdev" id="counter"></p>
