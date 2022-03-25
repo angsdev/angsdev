@@ -8,7 +8,7 @@ Computer science professional with more than 4 years of experience in the IT are
 
 Focused on reflect a work of a professional nature, minimalist, elegant and optimal performance.
 
-Described in three words:
+**Described in three words:**
 Conviction, Determination and Versatility.
   
 ## Skills
