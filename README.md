@@ -9,6 +9,7 @@ Computer science professional with more than 4 years of experience in the IT are
 Focused on reflect a work of a professional nature, minimalist, elegant and optimal performance.
 
 **Described in three words:**
+<br/>
 Conviction, Determination and Versatility.
   
 ## Skills
@@ -22,10 +23,11 @@ Conviction, Determination and Versatility.
 ![CSS3](https://img.shields.io/badge/css%203-0C7FBE?style=for-the-badge&logo=css3&logoColor=0C7FBE&labelColor=202020)
 ![SASS](https://img.shields.io/badge/sass-C76495?style=for-the-badge&logo=sass&logoColor=C76495&labelColor=202020)
 <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=202020)
+![JavaScript](https://img.shields.io/badge/javaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=202020)
 ![TypeScript](https://img.shields.io/badge/typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=2D79C7&labelColor=202020)
 ![JQuery](https://img.shields.io/badge/jquery-0b507f?style=for-the-badge&logo=jquery&logoColor=0b507f&labelColor=202020)
 ![Node.JS](https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=3C873A&labelColor=202020)
+![Vue.JS](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=202020)
 <br>
 ![PHP](https://img.shields.io/badge/php-72789a?style=for-the-badge&logo=php&logoColor=72789a&labelColor=202020)
 ![Laravel](https://img.shields.io/badge/laravel-F46157?style=for-the-badge&logo=laravel&logoColor=F46157&labelColor=202020)
@@ -33,23 +35,24 @@ Conviction, Determination and Versatility.
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-26557C?style=for-the-badge&logo=mysql&logoColor=26557C&labelColor=202020)
 ![MariaDB](https://img.shields.io/badge/mariadb-4175a1?style=for-the-badge&logo=mariadb&logoColor=4175a1&labelColor=202020)
-![MongoDB](https://img.shields.io/badge/mariadb-4175a1?style=for-the-badge&logo=mongodb&logoColor=4175a1&labelColor=202020)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=202020)
 
 
 ## Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angsdev&layout=compact&hide_border=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
-<br>
 
 ## Repositories
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=angsdev&repo=angsdev.github.io&hide_border=true&show_icons=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
-<br>
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=angsdev&repo=pagestack&hide_border=true&show_icons=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=angsdev&repo=notes-webservice&hide_border=true&show_icons=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
+![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=angsdev&repo=node-webserver&hide_border=true&show_icons=true&bg_color=1C252C&title_color=4986DF&text_color=fff&icon_color=4986DF)
 
 ## Social Media
 
 <a href="https://angsdev.github.io/"><img height="30px" src="https://img.shields.io/badge/My%20Web%20Site:%20angsdev.github.io-1c252c?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/angelquiñonezs"><img src="https://img.shields.io/badge/linkedin%20@angelquiñonezs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/angelquinonezs"><img src="https://img.shields.io/badge/linkedin%20@angelquiñonezs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://torre.co/angsdev/"><img src="https://img.shields.io/badge/torre%20@angsdev-27292D?style=for-the-badge"/></a>
 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=angsdev" id="counter"></p>
 
