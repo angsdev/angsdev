@@ -28,6 +28,7 @@ Conviction, Determination and Versatility.
 ![JQuery](https://img.shields.io/badge/jquery-0b507f?style=for-the-badge&logo=jquery&logoColor=0b507f&labelColor=202020)
 ![Node.JS](https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=3C873A&labelColor=202020)
 ![Vue.JS](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=202020)
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=202020)
 <br>
 ![PHP](https://img.shields.io/badge/php-72789a?style=for-the-badge&logo=php&logoColor=72789a&labelColor=202020)
 ![Laravel](https://img.shields.io/badge/laravel-F46157?style=for-the-badge&logo=laravel&logoColor=F46157&labelColor=202020)
